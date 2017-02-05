@@ -1,0 +1,179 @@
+body {
+}
+#top {   
+    background-image: url(../img/rsz_obraz1.jpg);
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.page-header > h1 {
+    font-size: 92px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    font-family: 'Indie Flower', cursive;
+}
+p {
+    font-size: 25px;
+}
+#about {
+    background-color: #EEE;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+.no-rounded {
+	border: 2px solid #D7C7A9 !important;
+    background-color: rgba(255, 255, 255, 0);
+    color: #D7C7A9;
+}
+.no-rounded:hover {
+	background-color: #D7C7A9;
+}
+.my-btn {
+    background-color: rgba(215, 199, 169, 0.8);
+    margin-top: 20px;
+    text-decoration: none;
+    color: #293138; 
+}
+.my-btn2 {
+    background-color: rgba(41, 49, 56, 0.8);
+    margin-top: 20px;
+    text-decoration: none;
+    color: #D7C7A9; 
+}
+.my-btn2:hover {
+	color: #D7C7A9 !important;
+}
+#projects {
+    background-color: #D7C7A9;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 150px;
+}
+.little {
+    font-size: 15px;
+    margin-top: -20px;
+}
+.tiny {
+    font-size: 15px;
+}
+.gray {
+    color: #6C6B67;
+}
+.dark {
+    color: #293138;
+}
+#contact {
+	background-color: #293138;
+    color: #D7C7A9;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#extra-margin {
+	margin-bottom: 100px;
+}
+form {
+    background-color: #1b232a;
+    background-size: contain;
+    border-radius: 8%;
+    padding: 10px 10px 10px 10px;
+}
+.go-to-top {
+	font-size: 20px;
+    background-color: #1b232a;
+    color: #eee;
+    margin-top: 50px;
+}
+.go-to-top:hover {
+    background-color: #0e1215;
+    color: #eee !important;
+}
+.social {
+	color: #eee;
+    width: 120px;
+    height: 8s5px;
+    text-align: center;
+}
+.pinterest {
+	background-color: #cb2027;
+}
+.pinterest:hover {
+	background-color: #eee;
+    color: #cb2027 !important;
+}
+.dribble {
+	background-color: #C73B6F;
+}
+.dribble:hover {
+    background-color: #eee;
+    color: #C73B6F !important;
+}
+.github {
+	background-color: #999;
+}
+.github:hover {
+    background-color: #eee;
+    color: #999 !important;
+}
+.s-o {
+    background-color: #f48024;
+}
+.s-o:hover {
+    background-color: #eee;
+    color: #f48024 !important;
+}
+.fcc {
+    background-color: #006400;
+    margin-top: 20px;
+}
+.fcc:hover {
+    background-color: #eee;
+    color: #006400 !important;
+}
+.codepen {
+    background-color: #0ebeff;
+    margin-top: 20px;
+}
+.codepen:hover {
+	background-color: #eee;
+    color: #0ebeff !important;
+}
+.yt {
+    background-color: #cd201f;
+    margin-top: 20px;
+}
+.yt:hover {
+    background-color: #eee;
+    color: #cd201f !important;
+}
+.linkedin {
+	background-color: #0077b5;
+    margin-top: 20px;
+}
+.linkedin:hover {
+    background-color: #eee;
+    color: #0077b5 !important;
+}
+footer {
+    background-color: #4D5156;
+    color: #eee;
+    text-align: center;
+    padding: 3px 0 3px 0;
+}
+.footer-gray {
+	color: #9f9f9f;
+}
