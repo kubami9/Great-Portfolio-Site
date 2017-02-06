@@ -107,6 +107,7 @@ form {
     width: 120px;
     height: 8s5px;
     text-align: center;
+    margin-bottom: 20px !important;
 }
 .pinterest {
 	background-color: #cb2027;
@@ -138,7 +139,6 @@ form {
 }
 .fcc {
     background-color: #006400;
-    margin-top: 20px;
 }
 .fcc:hover {
     background-color: #eee;
@@ -146,7 +146,6 @@ form {
 }
 .codepen {
     background-color: #0ebeff;
-    margin-top: 20px;
 }
 .codepen:hover {
 	background-color: #eee;
@@ -154,7 +153,6 @@ form {
 }
 .yt {
     background-color: #cd201f;
-    margin-top: 20px;
 }
 .yt:hover {
     background-color: #eee;
@@ -162,7 +160,6 @@ form {
 }
 .linkedin {
 	background-color: #0077b5;
-    margin-top: 20px;
 }
 .linkedin:hover {
     background-color: #eee;
